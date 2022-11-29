@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Hi, I'm [Clicia Amanda ](https://github.com/williamelias/cliciasilva), a current undergraduate student interested in Front-End.
+Hi, I'm [Clicia Amanda ](https://github.com/cliciasilva/cliciasilva), a current undergraduate student interested in Front-End.
 
 **Personal Links (How to contact me):**
 
@@ -24,7 +24,7 @@ Hi, I'm [Clicia Amanda ](https://github.com/williamelias/cliciasilva), a current
 
 📊 **What Lanugages do I Write Most Often?:**
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajivsarvepalli&layout=compact&exclude_repo=github-readme-stats,rajivsarvepalli.github.io,rajivking6.github.io" alt="rajivsarvepalli" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cliciasilva&layout=compact&exclude_repo=github-readme-stats,rajivsarvepalli.github.io,rajivking6.github.io" alt="rajivsarvepalli" />
 
 ##
 
