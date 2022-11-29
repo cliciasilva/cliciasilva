@@ -30,7 +30,7 @@ Hi, I'm [Clicia Amanda ](https://github.com/cliciasilva/cliciasilva), a current 
 
 📈 My GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=williamelias&show_icons=true&theme=tokyonight&count_private=true" alt="cliciasilva" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=cliciasilva&show_icons=true&theme=tokyonight&count_private=true" alt="cliciasilva" />
  
 ##
 
